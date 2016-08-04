@@ -1,0 +1,32 @@
+
+Interface
+
+A interface do Construct 2 é muito semelhante ao Word/Writer.
+
+Portanto, se o usuário possui uma experiência considerável com os
+programas listados, a interação será mais simples.
+
+A interface é muito simples e intuitiva.
+
+Continuação: Interface
+
+O construct se baseia em duas abas interativas: Layouts and Stylesheets.
+
+Layout: parte visual, onde se monta cenários, personagens, etc.
+
+Event Sheets: você cria o comportamento do cenário ou personagens.
+
+Construct2 -> Programação Visual.
+
+Layers: Camadas do seu Layout.
+
+As camadas vem pra propor maior organização do cenários e objetos
+da sua aplicação.
+
+No layout tudo do seu projeto se torna visível.
+
+As propriedades do Layout (Properties) tem as principais
+características do layout.
+
+Um layout pode possuir diversas camadas (layers).
+
