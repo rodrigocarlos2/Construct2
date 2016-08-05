@@ -1,0 +1,8 @@
+
+O Layout principal já é fornecido na tela principal.
+
+Após isso, pode-se inserir um objeto com um duplo clique sobre
+o layout, com isso, vai ser inserido o Sprite.
+
+Os comportamentos correspondem à funções previamente definidas
+para um objeto.
